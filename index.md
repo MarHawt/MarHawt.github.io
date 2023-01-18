@@ -29,7 +29,7 @@ title: Home
 ## External Links
 
 [Team Orginization](https://docs.google.com/document/d/1dDgHLobmDNCYvpNIcSBqIuFN6-r3jtinb6vlm_Ir61o/edit?usp=sharing)
-/n
+
 [User Needs](https://docs.google.com/document/d/1VVyhdZB0z5Hwb46n2J9Ux7JTXH81IPGbzrcsyX8NQ50/edit?usp=sharing)
 
 

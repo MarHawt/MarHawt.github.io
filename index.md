@@ -6,12 +6,6 @@ title: Home
 
 ## Project: Outdoor Solar Weather kit
 
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-
 ## Schemaitc
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
